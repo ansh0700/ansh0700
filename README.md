@@ -49,14 +49,14 @@
 ### 🔮 NEON METRICS & SYSTEM STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh0700&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh0700&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ansh0700&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ansh0700&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh0700&theme=radical&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=ansh0700&theme=radical&hide_border=true" width="97%" />
 </div>
 
 ---
